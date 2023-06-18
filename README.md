@@ -1,16 +1,12 @@
 # shopping_flutter_app
 
+
 In this project I have used Getx for Statemanagement, Dio for HTTP client and Hive for the local database. Products api is for fakestoreapi..
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## Description:This E-commerce App allows users to browse and purchase products from an online store. It provides a seamless shopping experience with features such as product listings,
+product details, shopping cart, and checkout.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots:
+<img src="https://github.com/bhagyashripawar2793/flutter_shopping_app/assets/product_details_page" width="220" height="400">

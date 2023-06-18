@@ -36,7 +36,7 @@ class ProductDetailsPage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
             Text(
-              "\$" + item.price.toString(),
+              "Rs.\t" + item.price.toString(),
               style: TextStyle(
                   fontWeight: FontWeight.bold,
                   color: Colors.white,
