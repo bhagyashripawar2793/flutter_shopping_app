@@ -9,4 +9,9 @@ In this project I have used Getx for Statemanagement, Dio for HTTP client and Hi
 product details, shopping cart, and checkout.
 
 ## Screenshots:
-<img src="https://github.com/bhagyashripawar2793/flutter_shopping_app/assets/product_details_page.png" width="220" height="400">
+<img src="C:\Users\BP59437\Flutter Training all projects demo\Flutter usecase ecommerce\flutter_shopping_app\flutter_shopping_app\assets\sign_up_page.png" width="220" height="400>
+<img src="C:\Users\BP59437\Flutter Training all projects demo\Flutter usecase ecommerce\flutter_shopping_app\flutter_shopping_app\assets\product_listing_page.png" width="220" height="400>
+<img src="C:\Users\BP59437\Flutter Training all projects demo\Flutter usecase ecommerce\flutter_shopping_app\flutter_shopping_app\assets\product_details_page.png" width="220" height="400>
+<img src="C:\Users\BP59437\Flutter Training all projects demo\Flutter usecase ecommerce\flutter_shopping_app\flutter_shopping_app\assets\cart_page.png.png" width="220" height="400>
+<img src="C:\Users\BP59437\Flutter Training all projects demo\Flutter usecase ecommerce\flutter_shopping_app\flutter_shopping_app\assets\checkout_page.png" width="220" height="400>
+
