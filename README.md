@@ -9,4 +9,4 @@ In this project I have used Getx for Statemanagement, Dio for HTTP client and Hi
 product details, shopping cart, and checkout.
 
 ## Screenshots:
-<img src="https://github.com/bhagyashripawar2793/flutter_shopping_app/assets/product_details_page" width="220" height="400">
+<img src="https://github.com/bhagyashripawar2793/flutter_shopping_app/assets/product_details_page.png" width="220" height="400">
